@@ -1,0 +1,9 @@
+{
+  "name": "ShareBuilding",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./generatePercentageSharesArray.js",
+    "generate": "node ./generateRandomSharesArray.js"
+  }
+}
